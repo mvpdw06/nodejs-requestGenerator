@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-request-generator",
+  "version": "1.0.0",
+  "description": "Request generator with Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "fire": "node --harmony index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvpdw06/nodejs-requestGenerator.git"
+  },
+  "author": "Ryan Hsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvpdw06/nodejs-requestGenerator/issues"
+  },
+  "homepage": "https://github.com/mvpdw06/nodejs-requestGenerator#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
